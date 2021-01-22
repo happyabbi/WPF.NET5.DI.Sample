@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.NET5.DI.Sample", "WPF.NET5.DI.Sample\WPF.NET5.DI.Sample.csproj", "{F557A51D-0DD0-4759-8AA9-4EE42D0E92D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.NET5.SQLite.CRUD", "WPF.NET5.SQLite.CRUD\WPF.NET5.SQLite.CRUD.csproj", "{C22D6B41-0779-41B9-AD44-E26F8555C3F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F557A51D-0DD0-4759-8AA9-4EE42D0E92D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F557A51D-0DD0-4759-8AA9-4EE42D0E92D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F557A51D-0DD0-4759-8AA9-4EE42D0E92D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22D6B41-0779-41B9-AD44-E26F8555C3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22D6B41-0779-41B9-AD44-E26F8555C3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22D6B41-0779-41B9-AD44-E26F8555C3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22D6B41-0779-41B9-AD44-E26F8555C3F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
